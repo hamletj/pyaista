@@ -17,6 +17,7 @@ setup(
     author='AISTA',
     author_email='NA@NA',
     url='https://github.com/hamletj/pyaista',
+    download_url = 'https://github.com/hamletj/pyaista/archive/refs/tags/v0.0.1.tar.gz',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
